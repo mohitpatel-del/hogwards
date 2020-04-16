@@ -1,0 +1,1 @@
+alert("I am a huge Harry potter fan , i love the series and i always wanted to go to Hogwards. Wizarding world was a huge deal for me nowdays i spend most of the time writing and reflecting on my childhood. You know the innocence of a child, so this is just one old sweet memory or dream i am trying to live by developing this page..ENJOY .");
